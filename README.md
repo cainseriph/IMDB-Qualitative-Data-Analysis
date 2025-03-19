@@ -3,15 +3,14 @@
 
 ## Overview
 
-This repository provides a comprehensive analysis of IMDB entries using a dataset updated as of March 18, 2024. The data, sourced from IMDB non commerical collection. The analysis offers insights into conent release trends, genre popularity,and more.
+This repository provides a comprehensive analysis of IMDB entries using a dataset updated as of March 18, 2024. The data, sourced from the IMDB non-commercial collection. The analysis offers insights into content release trends, genre popularity,and more.
 
-## Dataset
+## Dataset Source
 https://developer.imdb.com/non-commercial-datasets/
 
 ### Files
 
 - `title.basics.tsv` : Dataset containing basic information, including content type, title, and genre.
-- `title.akas.tsv` : Dataset adding alternative titles and region data.
 - `title.ratings.tsv` : Dataset with rating and voting information.
 
 ## Analysis & Visualizations
@@ -19,24 +18,24 @@ https://developer.imdb.com/non-commercial-datasets/
 This project includes several analyses and visualizations to explore different aspects of the Media Spectrum:
 
 1. **Release Trends with Surge Period Highlight**
-Analyzes release trends over the years.
+Analyzes release trends over the years based on genres.
 
 2. **Number of Releases by Genre**
 Compares the number of title releases across genres.
 
-3. **Top 10 Studios by production Success**
-Identifies leading developers based on the total price of their games across all platforms.
+3. **Top 10 Studios by production Success** --WIP further data needed
+Identifies leading production studios based on the total earnings.
 
-4. **Top 10 Genres by Recommendation Percentage**
-Highlights genres with the highest percentage of recommendations from reviewers and critics.
+4. **Top 10 Genres by Production Saturation** 
+Highlights which genres see the most production.
 
-5. **Top 10 Titles with High Recommendations, taking both rating and voting in account**
-Showcases titles with the highest significant number of recommendations.
+5. **Top 10 Titles with Highest Rating**
+Showcases titles with the highest ratings.
 
-6. **Top 10 Titles by Number of Recommendations**
-Focuses on games that are highly recommended by players and critics, regardless of their play frequency.
+6. **Top 10 Titles by Number of Votes**
+Focuses on Titles that are highly recommended by vote count.
 
-7. **Top 5 Languages Featuring the Titles**
+7. **Top 5 Languages Featured by Titles** --WIP further data needed
 Displays languages with the most titles, indicating key markets for media distribution.
 
 ## Contributing
