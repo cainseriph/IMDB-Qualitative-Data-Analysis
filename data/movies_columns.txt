@@ -1,0 +1,6 @@
+tconst
+Title
+Year
+Genres
+Rating
+Votes
