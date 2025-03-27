@@ -47,6 +47,14 @@ A Virtual environment titled imdb was used
 6. Install the *requirements.txt* file to install necessary packages by running *pip install -r requirements.txt* 
 7. Primary Jupyter Notebook for the project is 'IMDB_Movies.ipynb'. Additionally 'IMDB_dirty.ipynb' can be reviewed for the cleaning of the data and 'data_dictionary.ipynb' contains the Data Dictionary for the project.
 
+## Virtual Environment Commands
+
+| Command | Linux/Mac | GitBash |
+|---------|-----------|---------|
+| Create | `python3 -m venv imdb` | `python -m venv imdb` |
+| Activate | `source imdb/bin/activate` | `source imdb/Scripts/activate` | (PowerShell) `source imdb/Scripts/Activate.ps1`
+| Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
+| Deactivate | `deactivate` | `deactivate` |
 
 ## Analysis & Visualizations
 This project includes several analyses and visualizations to explore different aspects of the Media Spectrum:
