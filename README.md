@@ -52,7 +52,7 @@ A Virtual environment titled imdb was used
 | Command | Linux/Mac | GitBash |
 |---------|-----------|---------|
 | Create | `python3 -m venv imdb` | `python -m venv imdb` |
-| Activate | `source imdb/bin/activate` | `source imdb/Scripts/activate` | (PowerShell) `source imdb/Scripts/Activate.ps1`
+| Activate | `source imdb/bin/activate` | `source imdb/Scripts/activate` (PS)  `source imdb/Scripts/Activate.ps1` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
 
