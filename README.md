@@ -26,7 +26,7 @@ This repository provides a comprehensive analysis of IMDB entries using a datase
 ## Development Environment
 Microsoft Windows 11 Home X64 Version 10.0.22631 Build 22631
 This project is written using version Python 3.13.0.
-A Virtual environment titles imdb was used
+A Virtual environment titled imdb was used
 
 ## Dependencies 
  The following packages will be required to run the program: 
@@ -35,7 +35,7 @@ A Virtual environment titles imdb was used
 - shutil
 - os
 - pandas 
-- plotly.express  
+- plotly  
 
 ## Getting Started
  
