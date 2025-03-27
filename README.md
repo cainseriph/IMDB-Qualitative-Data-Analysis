@@ -5,6 +5,17 @@
 ## Overview
 This repository provides a comprehensive analysis of IMDB entries using a datasets updated as of March 18, 2024. The data, sourced from the IMDB non-commercial collection. The analysis offers insights into content release trends, genre popularity,and more.
 
+## Features Utilized for the project
+
+  | Feature        | Description                           |
+  |----------------|---------------------------------------|
+  | Read TWO data files| Used 2 TSV files found via IMDB non-commercial release (download of fresh files commented out in Jupytper notebook.)|
+  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. The calculated stats from various data points |
+  | Make 3 visualizations | Made various plots to show off my findings. |
+  | Utilize a virtual environment      | Made a venv 'imdb' for this project. |
+  | Create a Data Dictionary for your project | Created a Data Dictionary specific to this project. |
+  | Notate your code with markdown cells in Jupyter Notebook | Included in my code, you will find clear notes describing each code block. |
+
 ## Dataset Source
 [imdb](https://developer.imdb.com/non-commercial-datasets/) https://developer.imdb.com/non-commercial-datasets/
 
