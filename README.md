@@ -10,7 +10,7 @@ This repository provides a comprehensive analysis of IMDB entries using a datase
   | Feature        | Description                           |
   |----------------|---------------------------------------|
   | Read TWO data files| Used 2 TSV files found via IMDB non-commercial release (download of fresh files commented out in Jupytper notebook.)|
-  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. The calculated stats from various data points |
+  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. Then calculated stats from various data points |
   | Make 3 visualizations | Made various plots to show off my findings. |
   | Utilize a virtual environment      | Made a venv 'imdb' for this project. |
   | Create a Data Dictionary for your project | Created a Data Dictionary specific to this project. |
