@@ -44,7 +44,7 @@ A Virtual environment titles imdb was used
 3. Access the repository from your command line or preferred CMD software
 4. Install a virtual environment. The command in Gitbash | python -m venv imdb, Mac/Linux | python3 -m venv imdb
 5. Activate the virtual environment. The command in Gitbash | source imdb/scripts/activate, Mac/Linux | source imdb/bin/activate
-6. Install the *requirements.txt* file to install necessary packages by running *pip install requirements.txt* 
+6. Install the *requirements.txt* file to install necessary packages by running *pip install -r requirements.txt* 
 7. Primary Jupyter Notebook for the project is 'IMDB_Movies.ipynb'. Additionally 'IMDB_dirty.ipynb' can be reviewed for the cleaning of the data and 'data_dictionary.ipynb' contains the Data Dictionary for the project.
 
 
